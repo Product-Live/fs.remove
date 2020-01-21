@@ -1,5 +1,5 @@
 
-const fs = require('fs.promisify'),
+const fs = require('@product-live/fs.promisify'),
 	promise = require('promise.util'),
 	path = require('path');
 
