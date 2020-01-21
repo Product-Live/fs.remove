@@ -16,7 +16,7 @@
 	"types": "index.d.ts",
 	"scripts": {
 		"linter": "eslint index.js",
-		"test": "npm run linter && node test.js"
+		"test": "echo \"Error: no test specified\""
 	},
 	"eslintConfig": {
 		"extends": "eslint-config-basic"
