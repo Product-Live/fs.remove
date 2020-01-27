@@ -1,6 +1,6 @@
 {
 	"name": "@product-live/fs.remove",
-	"version": "1.0.11",
+	"version": "1.0.12",
 	"keywords": [],
 	"homepage": "https://github.com/Product-Live/fs.remove#readme",
 	"bugs": {
@@ -22,8 +22,8 @@
 		"extends": "eslint-config-basic"
 	},
 	"dependencies": {
-		"@product-live/promise.util": "1.0.3",
-		"@product-live/fs.promisify": "1.0.8"
+		"@product-live/promise.util": "1.0.4",
+		"@product-live/fs.promisify": "1.0.9"
 	},
 	"devDependencies": {
 		"eslint-config-basic": "git+https://git@github.com/anzerr/eslintrc.git"
