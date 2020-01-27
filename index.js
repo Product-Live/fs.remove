@@ -1,6 +1,6 @@
 
 const fs = require('@product-live/fs.promisify'),
-	promise = require('promise.util'),
+	promise = require('@product-live/promise.util'),
 	path = require('path');
 
 const remove = (dir, option = {}) => {
